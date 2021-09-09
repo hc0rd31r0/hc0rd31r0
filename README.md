@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![Helton Cordeiro's github stats](https://github-readme-stats.vercel.app/api?username=hc0rd31r0&theme=dark&show_icons=true&count_private=true)](https://github.com/hc0rd31r0)
+
+-->
+
+
